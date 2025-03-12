@@ -1,0 +1,94 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# AWS
+.aws/
+*.pem
+aws-credentials.*
+
+# Ambientes e configurações
+.env
+.env.*
+env/
+venv/
+ENV/
+*.config
+config.json
+*.ini
+credentials.*
+*credentials*
+*_secrets*
+secrets.*
+*secrets.json*
+*secrets.yml*
+*secrets.yaml*
+
+# Chaves, certificados e tokens
+*.key
+*.pem
+*.cert
+*.p12
+*.pfx
+*.crt
+*.csr
+*.cer
+*.der
+token.*
+*token*
+*oauth*
+*.jks
+*.keystore
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Arquivos de controle de versão
+.git
+.svn
+.hg
+
+# Arquivos de build e caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+node_modules/
+.serverless/
+.serverless-offline/
+.coverage
+htmlcov/
+
+# Arquivos do SO
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# AWS
+.aws/
+.env
